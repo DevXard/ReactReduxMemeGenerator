@@ -1,0 +1,13 @@
+input{
+    width: 100%;
+}
+
+.MemeForm{
+    display: flex;
+    justify-content: center;
+    transform: translate(10%);
+}
+.MemeForm-inputs{
+    
+    width: 40%;
+}
